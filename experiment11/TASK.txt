@@ -1,0 +1,5 @@
+Experiment 11: Scope and Closures
+Task 1: Global, function and block scope
+
+JavaScript: exp11_task1.js
+HTML: exp11_task1.html

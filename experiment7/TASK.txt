@@ -1,0 +1,5 @@
+Experiment 7: Constructor Functions and Classes
+Task 1: Constructor function and prototype
+
+JavaScript: exp7_task1.js
+HTML: exp7_task1.html

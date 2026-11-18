@@ -1,0 +1,5 @@
+Experiment 9: DOM, Validation, Storage and Quiz
+Task 1: Changing text and style with the DOM
+
+JavaScript: exp9_task1.js
+HTML: exp9_task1.html

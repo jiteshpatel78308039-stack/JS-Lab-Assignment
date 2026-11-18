@@ -1,0 +1,5 @@
+Experiment 15: Promises and async/await with Local Data
+Task 1: Creating a promise with then, catch and finally
+
+JavaScript: exp15_task1.js
+HTML: exp15_task1.html

@@ -1,0 +1,5 @@
+Experiment 6: JSON Text
+Task 1: Object to JSON text with JSON.stringify()
+
+JavaScript: exp6_task1.js
+HTML: exp6_task1.html

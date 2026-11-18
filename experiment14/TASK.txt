@@ -1,0 +1,5 @@
+Experiment 14: Timers and Intervals
+Task 1: setTimeout()
+
+JavaScript: exp14_task1.js
+HTML: exp14_task1.html

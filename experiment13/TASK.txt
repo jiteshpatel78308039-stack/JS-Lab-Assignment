@@ -1,0 +1,5 @@
+Experiment 13: Reduce, Some, Every and Map
+Task 1: reduce() for sum, maximum and average
+
+JavaScript: exp13_task1.js
+HTML: exp13_task1.html

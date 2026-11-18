@@ -1,0 +1,5 @@
+Experiment 3: Conditions and Loops
+Task 1: if, else if, else and the ternary operator
+
+JavaScript: exp3_task1.js
+HTML: exp3_task1.html

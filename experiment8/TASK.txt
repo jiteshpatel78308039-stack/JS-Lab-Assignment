@@ -1,0 +1,5 @@
+Experiment 8: Inheritance, Methods and Composition
+Task 1: Inheritance using extends
+
+JavaScript: exp8_task1.js
+HTML: exp8_task1.html

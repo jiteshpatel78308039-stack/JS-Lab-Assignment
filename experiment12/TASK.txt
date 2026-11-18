@@ -1,0 +1,5 @@
+Experiment 12: Callbacks and Higher-Order Functions
+Task 1: A callback function
+
+JavaScript: exp12_task1.js
+HTML: exp12_task1.html

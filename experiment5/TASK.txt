@@ -1,0 +1,5 @@
+Experiment 5: Arrays, Array Methods and Nested Arrays
+Task 1: Creating an array and adding or removing items
+
+JavaScript: exp5_task1.js
+HTML: exp5_task1.html

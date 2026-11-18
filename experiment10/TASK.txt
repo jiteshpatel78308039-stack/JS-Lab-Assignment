@@ -1,0 +1,5 @@
+Experiment 10: Objects and Destructuring
+Task 1: Creating and changing an object
+
+JavaScript: exp10_task1.js
+HTML: exp10_task1.html
